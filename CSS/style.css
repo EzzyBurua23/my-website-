@@ -1,0 +1,46 @@
+body {
+     margin-top:0;
+     margin: left 0;;
+     text-align:center;
+
+
+     
+}
+h1{
+    margin-top: 0;
+    font-family:"Montserrat", san-serif;
+
+}S
+
+h2{
+    margin-top: 0;
+    font-family:"Montserrat", san-serif;
+
+}
+h3{
+    margin-top: 0;
+    font-family:"Montserrat", san-serif;
+
+}
+p{
+    margin-top: 0;
+    font-family:"Montserrat", san-serif;
+
+}
+/*classes*/
+.my-img{
+    width:150px;
+    height:150px;
+    border-radius:50%
+}
+.top-container{
+    margin-top: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #3E54AC;
+}
+ 
+.bottom-container{
+    background-color: aquamarine;
+
+}
